@@ -41,7 +41,11 @@ img {
 }
 
 .links {
-    padding: 2em;
+    padding-top: 2em;
+}
+
+.links a {
+    padding: 0 0.3rem;
 }
 
 
