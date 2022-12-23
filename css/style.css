@@ -6,8 +6,10 @@ body {
     background-color: white;
     background-size: cover;
     margin: 0;
-    color: #2d3436;
+    color: #eef6fa;
     font-family: Gidole-Regular;
+    background-image: url('../img/Öresundsbron-blur.jpg');
+
 }
 
 #content {
@@ -50,12 +52,12 @@ img {
 }
 
 a {
-    color: #636e72;
+    color: #ffe3b0;
     text-decoration: none;
 }
 
 a:hover {
-    color: #2d3436;
+    color: #ffd185;
 }
 
 
@@ -104,5 +106,8 @@ a:hover {
     /* hi-res laptops and desktops */
     .profile {
         width: 20%;
+    }
+    p{
+        font-size: large;
     }
 }
